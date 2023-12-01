@@ -1,0 +1,2 @@
+# btech
+git initial learning
